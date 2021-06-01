@@ -1,0 +1,116 @@
+acesso Plataforma GENERATION
+
+Usuário - bruno_silth@hotmail.com
+Senha - NImOjobE
+
+
+*** Para contar presença, sempre acessar pela plataforma as aulas!!!! 
+
+Só libera proxima aula dps de ver os videos da aula anterior.
+
+
+Para enviar os exercicios
+
+podemos usar Google Drive
+
+Fazer upload de arquivos (botao direito na area da tela)
+
+botao direito no arquivo feito o upload > opção gerar link > Tirar do Restrito (mudar para Qualquer pessoa com link) > Copiar link 
+
+Enviar o link copiado Na plataforma
+
+
+
+O que faz um desenvolvedor JAVA?
+
+
+
+- Teste de Códigos, Linguagem, executa e desenvolve e implanta programas e softwares. 
+
+Manutenção , Resolução de problemas - Mediano, algo relacionado com persitência
+
+-Analisar tarefas e deterimnar quanto tempo vai levar para reaolziar cada desafio, solução
+
+-Melhor abordagem para resolver um problema 
+
+-*importante sempre comentar o que esta fazendo no codigo ( // ou #, o passo-a-passo)
+
+-Realizar testes minuciosos para indetnificar e corrigir erros no seu codigo
+
+-Identificar oportunidades para realizr treinamentos adicionais ou desenvolver atividades novas dentro de nós mesmos
+
+
+Várias plataformas (web, mobile, Desktop)
+
+SABER DE
+- UMA LINGUAGEM, no caso JAVA, 
+- BANCO DE DADOS (MYSQL)
+- Front End, Back end
+
+Fatores Chaves Para um Negócio
+-qualquer coisa que vai agregar valor para seu negócio ou cliente, para aumentar o sucesso geral do mesmo.
+
+ENTREGAR NO EMAIL DA TAIS ALEMAR O CERTIFICADO DE CONCLUSAO DOS DOIS CURSOS - tais.alemar@generation.org
+
+O QUE FAZ UM DESENVOLVEDOR JAVA?
+Fornecer suporte ao produtos e desenvolvimento do serviço que o utilizam
+Bancos, industrias de pesquisa, aplciativos, etc
+contribui com input e output, design, não só programar. Vai além de código.
+
+RESPONSABILIDADES DE UM DESENV.
+desevolver soluções
+testar e finalizar soluções
+corrigir erros
+coordernar e se comunicar com uma equipe e outras partes interessadas
+aprender e ensinar novas tecnologias e habilidades
+
+DIA-A-DIA DO DESENVOLVEDOR JAVA
+chegar cedo
+preparar o dia (ver emails, computador, sistemas de chamadas, conecta td)
+garantir que todos acessórios estejam presentes (teclado, fone, celular carregado)
+garantir que outros materiais estejam disponíveis (garrafa de água, etc)
+se concentrar mentalmente focando nas tarefas e nas suas metas que tem durante o dia
+
+participar de reuniões diárias, scrum. alinhar as coisas.
+rever atendimentos acumulados. mudanças de prioridades.
+ler atentamente e ver atendimentos na fila
+verificar urgência das tarefas e tomar atitudes para resolvê-las
+encontrar problemas que você pode não resolver. Pesquisar no google não é vergonha alguma.
+Se houver problemas além das nossas capacidades, pedir ajuda. encaminhar a equipe que consiga resolver ou profissional.
+Seguir a política da empresa sobre documentação para que a próxima pessoa que venha assumir seu lugar esteja apta a ter acesso e organização das informações.
+
+Desligar todos os sistemas
+Limpar área de trabalho.
+Verificar emails
+Garantir que o sistema esteja funcionando.
+
+o que é Java junior full stack?
+
+
+Oi Vó! sim, esto nesse novo ramo. Eu trabalho como um programador vó, em computadores, sistemas, utilizo de uma linguagem da programação que é o JAVA.
+
+Procuro fornecer suporte, ajuda aos serviços que utilizam essa linguagem. Testo e crio códigos que o computador interpreta, seja de forma a criar soluções para problemas, ou mesmo criar novas funções que a empresa precisa.
+
+
+
+
+
+
+
+JAVA DIFERE DE JASCRIPT
+
+nao sao nem parecidos
+
+lingagem compilada. Pega uma linguagem de usuário e passa para a linguagem de máquina. JAVA - back end 
+linguagem interpretada, roda de um browser, navegador. JAVASCRIPT - front end
+
+
+
+No programa veremos JAVA WEB, nao para MOBILE!
+
+
+
+
+
+
+

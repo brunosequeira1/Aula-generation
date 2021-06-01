@@ -1,0 +1,108 @@
+Dupla treinamento em pares para Feedback de sexta-feira
+
+colocar o MEU FEEDBACK, o que a pessoa falou sobre mim
+
+Bruno e Ed
+Mostrou preocupação com o grupo e a comunicação, se pos a frente para resolver o problema
+Se mostrou um otimo ator me enganou
+Gostaria de ouvir mais além das chamadas da Liza ou Luiz, pra saber sua forma de pensar, suas ideias. Pode ter muito a adicionar para o grupo.
+pontualidade
+
+
+
+
+Persistência e Comunicação
+
+1 pergunta
+Plataformas, email, telefonemas, comunicação gesticular, visual, discord, Zoom, Google Meeting
+
+2 pergunta
+Ser formal, ser claro, objetivo
+
+3 pergunta
+pensar e formular o que quer falar antes, garantir que tem instrumentos claros
+
+4 pergunta
+Ser educado, usar palavras chaves como obrigado, por favor, demonstrar interesse e ser controlado expressivamente.
+
+5 pergunta
+Mostrar apreço, mostrar que aquilo faz sentido e vc vai utilizar da melhor forma possivel
+
+6 pergunta
+explicar o problema, se nao sabe vc quer aprender, estar junto para resolver aquilo
+
+
+Defina o
+ Problema
+ no Local de Trabalho
+
+Não haver interação entre a equipe
+Falha de comunicação, cultura e devido ao período de relacionamento estipulado.
+Pense em Diferentes Soluções Através de Processo
+o Criativo
+
+Ajuste da agenda conforme o fuso horário
+Ter mais encontros (dailys de 15 minutos).
+Encontros semanais de alinhamentos
+Controles do andamento do projeto (trello, ou planilhas de excel)
+Outros métodos de comunicação
+
+Encontros mensais, proponto interação, trazendo mais descontração e confiança para a equipe
+
+
+Falar  que achou da atividade na platafprma.
+
+
+INTRODUÇÃO A CIENCIA DA COMPUTACAO
+
+Ver docs prints de aula
+
+lamers - invasores juniors
+haquers - não são destrutíveis na maioria dos casos, é só para olhar as informações
+crackers - faz um evento devastador, rouba informação, usa a identidade, faz roubo de valores.
+bobles - fack News kkkkkkk usa cash in para invadir
+
+PERGUNTA 1
+
+Para entendermos o conceito de internet, devemos primeiramente saber o que é uma rede de computadores. 
+Uma rede de computadores é a interconexão entre computadores que permite a comunicação de dados entre si. Pode ser de forma local, corporativa, (uma intranet), regional, etc.
+Esta comunicação pode ser feita através de cabos ou sem fios. 
+Por exemplo, supondo que queremos acessar o site da GENERATION para ler sobre os blocos que vamos ver.
+Daí abrimos um navegador (que é um programa para acessar sites) e digita www.brazil.generation.org na barra de endereços e, passados poucos segundos, a página inicial do site é exibida. 
+Esse processo ocorre pois nossos computadores (CHAMADOS DE CLIENTE) possuem um endereço numérico único chamado endereço IP e, além deste endereço, possui também inúmeras portas por onde as aplicações e processos se comunicam.
+Para acessarmos a página desejada, de fato, o computador precisa antes estabelecer uma conexão com o computador onde a página solicitada está hospedada, chamado de SERVIDOR.
+Para fazer essa "conversa" entre cliente e servidor, usamos de PROTOCOLOS, que definem a forma, a ordem como as mensagens e dados são enviados e recebidos por essas entidades das redes, e quais ações devem ser tomadas na
+transmissão e recepção de mensagens.
+uma vez que sabemos o que é endereço de IP, o CLIENTE precisa estabelecer uma conexão com o servidor. para tal, utilizamos o protocolo PCP/IP. Nada mais é que a forma que o cliente e servidor vão conversar entre si.
+É um conjunto de regras, padrões que especificam detalhes de comunicação , interconexão e roteamento entre ambos.  O TCP seria a camada de transporte, o protocolo de controle dessa transmissão, responsável pela transferência das
+mensagens de forma segura e organizada. Já o IP seria a a camada de REDE, mais principal, onde estão as tarefas de adm, roteamento de pacotes, informações, endereçamento.
+Podemos dizer que o idioma de comunicação entre esses servidores WEB e os navegadores seria chamado de HTTP. É um protocolo de transferência de hypertextos, ou seja, quando o navegador solicita uma página web é chamado de requisição 
+e quando o servidor web envia a página solicitada de volta é chamado de resposta. Esta abordagem é conhecida como arquitetura cliente-servidor. Na requisição é informado qual o idioma utilizado e a página solicitada e na resposta é 
+informado o formato e o conteúdo da página.
+
+(O TCP é um protocolo de rede que permite a comunicação entre computadores e uma conexão deve ser estabelecida 
+antes do início do envio de pacotes. Ele é um protocolo ponto-a-ponto, possui garantia de entrega de pacotes de forma ordenada e sem modificações e possui controle de fluxo.)
+
+PERGUNTA 2
+GET e POST são métodos de comunicação HTTP.
+
+GET - É o método que podemos enviar um número limitado de informações para o servidor. Pode ser gerado por formulário WEB e por link na pagina HTML. Quando utilizamos o GET, os parâmetros são passados no cabeçalho da requisição. 
+Por isso, podem ser vistos pela URI, como no caso do nosso formulário de login. Ele aceita apenas STRINGS, que são conjuntos de caracteres. Usa da propria URL para enviar dados ao servidor. 
+Quando enviado um formulario pelo metodo GET, as informações do mesmo já são colocadas na propria URL onde esse formulário vai ser enviado, separando o endereço da URL dos dados por uma ?
+
+POST - Só pode ser gerado atraves de formulario WEB, (ou de AJAX), pode ser gerado um link apenas com o uso de JAVASCRIPT. Ele é um método onde não há restrição do tamanho de dados, mas que não são exibidos ao usuário, 
+um metódo utilizado para enviar arquivos.
+
+É importante que tenhamos conhecimento sobre HTTP e Internet pois o desenvolvedor Java vai se deparar continuamente com este conceito ao longo de seu trabalho, seja numa função Front End, ou Back End, ou na segurança de dados.
+Isso se dá pois o HTTP é um Protocolo de transferência de Hypertextos, um conceito que vamos nos deparar cotidianamente quando formos desenvolver para uma empresa, por ser uma "forma de linguagem", de comunicação. 
+
+
+
+
+ 
+
+
+
+
+
+ 

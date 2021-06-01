@@ -1,0 +1,44 @@
+
+
+inteiro idade = 21
+
+*idade seria o nome da variável
+
+*inteiro seria o modo da classificação de dados
+
+variável = que pode ser variada posteriormente. Campo aberto o qual devemos preencher.
+
+do tipo inteiro = o mesmo da matematica, conjunto de numeros inteiros positivos, negativos e o zero inclusive.
+
+Constante = nao se altera ao longo do código.
+
+real = pega tanto o conjunto dos numeros inteiros, quando o dos números fracionários.
+
+cadeia = sequencia de caracteres
+
+/*
+
+*/
+
+/* */ servem para comentar várias linhas de programação
+
+leia () = pega a informação, valor que o usuário digitou e coloca no ()
+
+
+visao externa das situações
+nao tivemos esse erro internamente antes
+
+persistira com a equipe em standby
+merito da equipe
+
+1 pergunta
+ (Thomaz) acho que foi muito bem clara, educada, pontuando um passo a passo, e sempre deixando o merito como equipe, 
+alem de ter pedido o feedback, o que demonstrou humildade. E em como vai aplicar esse feedback no futuro
+ela com as proprias palavras, pedi de forma direta um feedback.
+
+2 pergunta
+sim, sua comunicação foi clara, expressou e procurou entender o feedback e de forma objetiva absorveu 
+3 pergunta
+Sim, ela alem de o Thomaz dizer de como aplicar futuramente, quis ressaltar que interagiria mais com a equipe, pois ambos tem como aprender juntos
+
+
